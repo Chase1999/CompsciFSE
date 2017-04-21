@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="62" height="43" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tiles.png" width="594" height="504"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="62" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztw8EJAAAMA6Ej+w/dJfpUcNVUVVVVVVVVVVVVfX88ThTV
+  </data>
+ </layer>
+</map>
